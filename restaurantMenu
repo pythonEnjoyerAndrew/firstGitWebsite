@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Testing</title>
+        <link href="stylesTest.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <section class="Item">
+            <h1 class="title">Menu</h1>
+            <h2 class="subtitle">Soups</h2> <img class="symbol" src="https://cdn-icons-png.flaticon.com/128/368/368030.png" width="60" alt="Soup_icon">
+
+            <article>
+                <p class="food">Wonton soup:</p> <p class="price"> 4.99$</p> <img src="https://static.thenounproject.com/png/170070-200.png" width="20" alt="Discount_icon"> <div class="discountBorder"><h4 class="pastPrice">Past price: 6.77$</h4></div>
+            </article>
+
+            <article>
+                <p class="food">Soup dumplings:</p> <p class="price">9.99$</p>
+            </article>
+
+
+        </section>
+    </body>
+</html>
