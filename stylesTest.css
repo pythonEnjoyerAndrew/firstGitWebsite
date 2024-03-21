@@ -1,0 +1,73 @@
+body{
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV9jaGluZXNlX25ld195ZWFyX2JhY2tncm91bmRfc3R5bGVfb2ZfZnJhbWVfYm9yZF9hNmE2ZWI3Yi05YzExLTRkOGYtODU1Yi00OTY1NzYyYjAzYjZfMS5qcGc.jpg);
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Item p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.food {
+    text-align: left;
+}
+
+.price {
+    text-align: right;
+    width: 50%;
+}
+
+.title {
+    margin-top: 0;
+}
+
+.symbol {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    margin-bottom: 0;
+}
+
+.Item {
+    text-align: center;
+    background-color: rgb(240, 120, 84);
+    outline-width: px;
+    outline-color: black;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.pastPrice {
+    font-size: 10;
+    margin-top: 0;
+    margin-bottom: 3;
+    text-align: right;
+    margin-right: 20;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: crimson;
+    
+}
+
+.discountBorder{
+    background-color: white;
+    margin-left: 256;
+}
